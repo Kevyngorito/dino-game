@@ -1,4 +1,4 @@
-<H1> 🌵🦕 Bem vindo(a) ao DINO GAME, projeto do bootcamp DIO 🌵🦖 </H1>
+<H1> 🌵🦕 Bem vindo ao Dio Dino Game 🌵🦖 </H1>
 <p> Qual o propósito? </p>
 <p> Colocar em prática as habilidades técnicas desenvolvidas durante o módulos básicos de HTML, CSS e JavaScript.</p>
 
