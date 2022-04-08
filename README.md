@@ -11,4 +11,7 @@
   <li> Manipulação de funções tendo em vista criar parâmetros comportamentais </li>
   <li> Captura de tecla do usuário </li>
   </ul>
+  <br>
+  <h1> Resultado </h1>
+  <img src = "https://i.imgur.com/EaGdTd9.gif"> </img>
   
